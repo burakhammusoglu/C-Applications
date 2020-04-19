@@ -1,0 +1,7 @@
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps-2\bin\Debug\ConsoleApps-2.exe.config
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps-2\bin\Debug\ConsoleApps-2.exe
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps-2\bin\Debug\ConsoleApps-2.pdb
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps-2\obj\Debug\ConsoleApps-2.csprojAssemblyReference.cache
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps-2\obj\Debug\ConsoleApps-2.csproj.CoreCompileInputs.cache
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps-2\obj\Debug\ConsoleApps-2.exe
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps-2\obj\Debug\ConsoleApps-2.pdb

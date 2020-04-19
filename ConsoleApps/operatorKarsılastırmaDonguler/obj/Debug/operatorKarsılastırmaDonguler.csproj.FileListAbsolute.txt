@@ -1,0 +1,6 @@
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\operatorKarsılastırmaDonguler\bin\Debug\operatorKarsılastırmaDonguler.exe.config
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\operatorKarsılastırmaDonguler\bin\Debug\operatorKarsılastırmaDonguler.exe
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\operatorKarsılastırmaDonguler\bin\Debug\operatorKarsılastırmaDonguler.pdb
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\operatorKarsılastırmaDonguler\obj\Debug\operatorKarsılastırmaDonguler.csproj.CoreCompileInputs.cache
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\operatorKarsılastırmaDonguler\obj\Debug\operatorKarsılastırmaDonguler.exe
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\operatorKarsılastırmaDonguler\obj\Debug\operatorKarsılastırmaDonguler.pdb

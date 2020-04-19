@@ -1,0 +1,13 @@
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.exe
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.deps.json
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.runtimeconfig.json
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.runtimeconfig.dev.json
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.dll
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\bin\Debug\netcoreapp3.1\ConsoleApps.pdb
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.csprojAssemblyReference.cache
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.AssemblyInfoInputs.cache
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.AssemblyInfo.cs
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.dll
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.pdb
+C:\Users\mbura\Desktop\C#\Degişkenler\ConsoleApps\ConsoleApps\obj\Debug\netcoreapp3.1\ConsoleApps.genruntimeconfig.cache
