@@ -1,0 +1,7 @@
+C:\Users\mbura\Desktop\C#\Degişkenler\ArrayList\ArrayListsOrnek\bin\Debug\ArrayListsOrnek.exe.config
+C:\Users\mbura\Desktop\C#\Degişkenler\ArrayList\ArrayListsOrnek\bin\Debug\ArrayListsOrnek.exe
+C:\Users\mbura\Desktop\C#\Degişkenler\ArrayList\ArrayListsOrnek\bin\Debug\ArrayListsOrnek.pdb
+C:\Users\mbura\Desktop\C#\Degişkenler\ArrayList\ArrayListsOrnek\obj\Debug\ArrayListsOrnek.csprojAssemblyReference.cache
+C:\Users\mbura\Desktop\C#\Degişkenler\ArrayList\ArrayListsOrnek\obj\Debug\ArrayListsOrnek.csproj.CoreCompileInputs.cache
+C:\Users\mbura\Desktop\C#\Degişkenler\ArrayList\ArrayListsOrnek\obj\Debug\ArrayListsOrnek.exe
+C:\Users\mbura\Desktop\C#\Degişkenler\ArrayList\ArrayListsOrnek\obj\Debug\ArrayListsOrnek.pdb
